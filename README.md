@@ -2,7 +2,7 @@
 =======
 
 TGYT-WatchBot is a Telegram bot that allows you to monitor YouTube channels and get instant video updates directly in your Telegram groups or chats.
-Just write to @TGYT-WatchBot, add your favorite channels, and get notified when new videos are published!
+Just write to [@TGYT-WatchBot](https://t.me/TGYTWatch_Bot), add your favorite channels, and get notified when new videos are published!
 
 ## How to Get Your Telegram Group or Channel ID
 

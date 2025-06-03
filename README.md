@@ -1,8 +1,8 @@
-@ytWatchBot
+@TGYTWatch_Bot
 =======
 
-Telegram bot watch youtube cahnnels.
-Write to [@ytWatchBot](https://telegram.me/ytWatchBot) and use it!
+TGYT-WatchBot is a Telegram bot that allows you to monitor YouTube channels and get instant video updates directly in your Telegram groups or chats.
+Just write to @TGYT-WatchBot, add your favorite channels, and get notified when new videos are published!
 
 Run
 ---
